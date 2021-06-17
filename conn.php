@@ -1,9 +1,9 @@
 <?php 
 
 $host = "localhost";
-$user = "j2k5e6r5_octopus";
-$pass = "India$2017";
-$db   = "j2k5e6r5_exam";
+$user = "getdetai_exam";
+$pass = "8+COJtK4i[GX";
+$db   = "getdetai_exam";
 $conn = null;
 
 try {
